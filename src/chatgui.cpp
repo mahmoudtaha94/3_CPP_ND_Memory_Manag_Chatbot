@@ -116,7 +116,7 @@ ChatBotPanelDialog::ChatBotPanelDialog(wxWindow *parent, wxWindowID id)
 
     //// STUDENT CODE
     ////
-
+//Done
     // create chat logic instance
     // _chatLogic = new ChatLogic(); 
     _chatLogic = std::make_unique<ChatLogic>();
@@ -133,6 +133,7 @@ ChatBotPanelDialog::ChatBotPanelDialog(wxWindow *parent, wxWindowID id)
 
 ChatBotPanelDialog::~ChatBotPanelDialog()
 {
+//done    
     //// STUDENT CODE
     ////
 

@@ -13,6 +13,7 @@ private:
     wxBoxSizer *_dialogSizer;
     wxBitmap _image;
 
+//Done
     //// STUDENT CODE
     ////
 
