@@ -23,8 +23,6 @@ ChatLogic::ChatLogic()
 
 ChatLogic::~ChatLogic()
 {
-    // delete chatbot instance
-    delete _chatBot;
 }
 
 template <typename T>
